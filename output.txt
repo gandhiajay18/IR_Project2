@@ -1,0 +1,54 @@
+Get postings
+香
+Postings List: 32673 33195
+Get postings
+afskrivning
+Postings List: 5 13 21 25 31
+Get postings
+amtssparekas
+Postings List: 25 27
+TaatAnd
+香 afskrivning amtssparekas
+Results: emptyNumber of documents in results: 0
+Number of comparisons: 5
+TaatOr
+香 afskrivning amtssparekas
+Results: 5 13 21 25 27 31 32673 33195
+Number of documents in results: 8
+Number of comparisons: 10
+DaatAnd
+香 afskrivning amtssparekas
+Results: emptyNumber of documents in results: 0
+Number of comparisons: 2
+DaatOr
+香 afskrivning amtssparekas
+Results: 5 13 21 25 27 31 32673 33195
+Number of documents in results: 8
+Number of comparisons: 30
+Get postings
+оротуканск
+Postings List: 33537 33543 33546 34629
+Get postings
+ороша
+Postings List: 35725 38999 40260 40362 43196
+Get postings
+орошен
+Postings List: 38121 42068 44418
+TaatAnd
+оротуканск ороша орошен
+Results: emptyNumber of documents in results: 0
+Number of comparisons: 4
+TaatOr
+оротуканск ороша орошен
+Results: 33537 33543 33546 34629 35725 38121 38999 40260 40362 42068 43196 44418
+Number of documents in results: 12
+Number of comparisons: 15
+DaatAnd
+оротуканск ороша орошен
+Results: emptyNumber of documents in results: 0
+Number of comparisons: 7
+DaatOr
+оротуканск ороша орошен
+Results: 33537 33543 33546 34629 35725 38121 38999 40260 40362 42068 43196 44418
+Number of documents in results: 12
+Number of comparisons: 52
